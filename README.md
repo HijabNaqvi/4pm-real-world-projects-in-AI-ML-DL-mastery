@@ -5,8 +5,8 @@ Welcome to the **4pm Real World AI, ML, DL Projects Mastery** course! This repos
 ## Trainers:
 - **Muhammad Shahid**  
   LinkedIn: [Muhammad Shahid](https://www.linkedin.com/in/muhammad-shahid-3804a927a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6U5pfr%2BvSASLtQj092NrxA%3D%3D)
-- **Hijab Naqvi**  
-  LinkedIn: [Hijab Naqvi](https://www.linkedin.com/in/hijabnaqvi?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxAz2QFhEQXGxj3gECAHddw%3D%3D)
+- **Hijab Zahra**  
+  LinkedIn: [Hijab Zahra](https://www.linkedin.com/in/hijabnaqvi?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxAz2QFhEQXGxj3gECAHddw%3D%3D)
 
 ## Moderators:
 - **Abdullah Siddique**  
